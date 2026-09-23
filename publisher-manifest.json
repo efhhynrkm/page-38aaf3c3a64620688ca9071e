@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b9b76b4a515715a5650af70c",
+  "owner": "efhhynrkm",
+  "repo": "page-38aaf3c3a64620688ca9071e",
+  "title": "超级飞鱼(spflyfish)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "38aaf3c3a64620688ca9071e",
+      "a": "超级飞鱼(spflyfish)",
+      "b": "稳定全球clash加速器",
+      "entity": "超级飞鱼(spflyfish)",
+      "brand": "超级飞鱼(spflyfish)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5384985dd978e3fcb9aa7519d4d75b968c36d39ba6ebb964e71f63271599dcbd",
+      "content": {
+        "primary_entity": "超级飞鱼(spflyfish)",
+        "keyword1": "超级飞鱼(spflyfish)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，Windows、macOS、Android、iOS 可分别参考对应订阅配置文档。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐后导入订阅，即可按客户端文档完成配置。",
+          "AI_CLOSING_TITLE": "选套餐配订阅",
+          "AI_DESCRIPTION": "，超级飞鱼是一款面向多设备用户的海外加速服务，提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 到 1000GB 月流量，支持 3 至 20 台设备同时在线。旗舰版配备 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点和企业定制路由。用户可根据设备数量与流量需求选择月付或年付方案，并按客户端文档配置订阅使用。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个方面了解超级飞鱼。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台设备，团队版每月 1000GB 支持 20 台设备，按在线设备数直接匹配。",
+          "AI_FEATURE_TEXT_2": "旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟和内容访问有更高要求的场景。",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供按年付方案，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用可降低月均成本。",
+          "AI_FEATURE_TITLE_1": "套餐按设备分档",
+          "AI_FEATURE_TITLE_2": "旗舰线路优化",
+          "AI_FEATURE_TITLE_3": "年付更省成本",
+          "AI_GUIDE_INTRO": "选择服务、查看适配要求、依客户端文档配置订阅，三步完成使用准备。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "超级飞鱼提供基础版、旗舰版和团队版三档海外加速套餐，流量从每月 100GB 到 1000GB，支持 3 至 20 台设备同时在线。旗舰版与团队版提供更优线路与流媒体解锁，用户可按设备数量和流量需求选择月付或年付方案。",
+          "AI_HERO_SUBTITLE": "多设备海外加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "月付与年付灵活选择",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线优化",
+          "AI_PLANS_INTRO": "基础版适合 3 台设备以内、月流量 100GB 的用户；旗舰版适合 5 台设备、300GB 流量并需要流媒体与游戏加速的用户；团队版适合 20 台设备、1000GB 流量及企业路由定制需求。三档均支持年付，年付价格分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常在线设备数量和月流量需求，在基础版、旗舰版、团队版中选择合适套餐，确认月付或年付周期。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量、流量额度和线路特性，确认是否符合当前设备与使用场景。",
+          "AI_STEP_TEXT_3": "按对应设备客户端的订阅配置文档导入订阅信息，完成配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "超级飞鱼多设备加速",
+          "AI_FAQ_TITLE": "常见问答",
+          "AI_FAQ_INTRO": "套餐区别、设备数量、订阅导入与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "区别在月流量、在线设备数量与节点类型：基础版 100GB、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备，并含专属支持。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "按套餐不同，基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。超出数量后需升级套餐或减少同时在线设备。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "先在设备上安装对应客户端，再从订阅信息中复制地址，粘贴到客户端的订阅或配置导入位置，保存并更新节点即可使用。",
+          "AI_FAQ_QUESTION_4": "月付和年付价格差多少？",
+          "AI_FAQ_ANSWER_4": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。相比月付，年付方案在长期使用上更省预算，可按需选择。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备，并提供企业定制路由与专属客户经理，适合多人协作或高带宽需求场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mes358a3uxgda.org",
+    "host": "xn--mes358a3uxgda.org"
+  },
+  "file_hashes": {
+    "index.html": "f044f002db40565485720c756e0b78fa2d9067f90344e9e986023df397b81e6f",
+    "sitemap.xml": "b5975f404e636c222dbdc94f04c1f0ca8fc77409f2d08db15a926da5cbb6200a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "46d242c6ef61fc978fe96ac10bcdcd361f32ec1a499851db7727ee8e9529c634",
+    "robots.txt": "d73241ad4a6381d329e8a69e0a779ec97f08a1203f6293def91cd56df5a10eac",
+    "fad8be362e318eeb18656c3a7aaa8151.txt": "319f9bbab62593da6e9fc80d6164dcd9ce214463d98bec20c7a085bf93cff253"
+  },
+  "revision": "75017db9a4a21688ed950f1ad5c186188c9f353ab78589187ffa326b3ed7fa84"
+}
